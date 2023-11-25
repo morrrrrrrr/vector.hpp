@@ -85,6 +85,12 @@ This is a header-only library. you just need to put it in your include directory
 
 The library works with c++11 and above.
 
+Compiled on Windows 10 with MinGW g++
+
+```bash
+g++ .\test.cpp -o test.exe
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
